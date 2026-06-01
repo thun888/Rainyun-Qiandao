@@ -18,6 +18,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 import ICR
 
+
 try:
     from dotenv import load_dotenv
     load_dotenv()
